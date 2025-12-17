@@ -1,16 +1,16 @@
 {
-  "name": "llama-coder",
-  "displayName": "Llama Coder",
+  "name": "llama-coder-v2",
+  "displayName": "Llama Coder V2",
   "description": "Better and self-hosted Github Copilot replacement",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "icon": "icon.png",
-  "publisher": "ex3ndr",
+  "publisher": "noobie-bob",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ex3ndr/llama-coder.git"
+    "url": "https://github.com/noobie-bob/llama-coder.git"
   },
   "bugs": {
-    "url": "https://github.com/ex3ndr/llama-coder/issues"
+    "url": "https://github.com/noobie-bob/llama-coder/issues"
   },
   "license": "MIT",
   "categories": [
